@@ -1,0 +1,35 @@
+.jobitem-link {
+  text-decoration: none;
+  color: white;
+}
+
+.jobitem-container {
+  padding: 20px;
+  background-color: #202020;
+  margin: 20px 10px;
+  border-radius: 20px;
+}
+
+.jobitem-header {
+  display: flex;
+  align-items: center;
+}
+
+.jobitem-title {
+  margin-left: 20px;
+}
+
+.jobitem-title .item-heading {
+  font-size: 20px;
+}
+
+.jobitem-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.jobitem-details .jobitem-loc {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

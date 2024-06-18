@@ -1,0 +1,38 @@
+.jobDetails-container {
+  background-color: black;
+  min-height: 100vh;
+  padding: 20px 100px;
+  color: white;
+}
+
+.company-website {
+  color: aquamarine;
+  text-decoration: none;
+}
+
+.jobitem-skill {
+  display: flex;
+  align-items: center;
+  width: 20vw;
+  margin: 20px;
+}
+
+.companyLife-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.companyLife-image {
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.similar-jobs-container {
+  display: flex;
+}
+
+.jobskills-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
